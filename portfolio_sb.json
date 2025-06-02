@@ -77,15 +77,15 @@
       ],
       "images": [
         {
-          "img_path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoeuvxLYEicjMebds8HVWYT8Ez73bxn5NVTTtxvAuOJKfVjFflJGoCQuR0bfL9iVd8DV6-sqXVsofEbNMkasGHMm2kBDnKQQmJG4Dxv_LUZw894G_d3Mu8ZJqJ9_kupphMpEtXsnKlJaE/s1600/USS_McClusky_(FFG-41).jpg",
-          "caption": "OHP Calss Frigate"
+	"img_path": "portfolio_media/USS_McClusky_(FFG-41).jpg",
+	"caption": "OHP Calss Frigate"
         },
         {
-          "img_path" : "https://www.pzlswidnik.pl/o/adaptive-media/image/13249429/w_720/SW-4-RUAS-Solo-(1)_720725.jpg",
+          "img_path" : "portfolio_media/SW-4-RUAS-Solo.jpg",
           "caption": "The SW-4 Helicopter"
         },
         {
-          "img_path": "http://www.lonesentry.com/images/wp-content/uploads/2015/02/boeing-b29-ditching.jpg",
+          "img_path": "portfolio_media/boeing-b29-ditching.jpg",
           "caption": "Aircraft Laboratory Ditiching Tests"
         }
       ]
@@ -102,15 +102,15 @@
       ],
       "images": [
         {
-          "img_path": "https://images.pexels.com/photos/29863941/pexels-photo-29863941/free-photo-of-navio.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "img_path": "portfolio_media/free-photo-of-lifeboat.jpg",
           "caption": "Lifeboats Over the Sea"
         },
         {
-          "img_path" : "https://images.pexels.com/photos/28282301/pexels-photo-28282301/free-photo-of-morze-wakacje-woda-ocean.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "img_path" : "portfolio_media/free-photo-of-disembarkation.jpg",
           "caption": "Disembarkation in Lifeboat"
         },
         {
-          "img_path": "https://images.pexels.com/photos/15304530/pexels-photo-15304530/free-photo-of-deska-tablica-zarzad-statek.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "img_path": "portfolio_media/free-photo-of-cruise.jpg",
           "caption": "Cruise Liner's Lifeboats"
         }
       ]
