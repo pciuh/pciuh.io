@@ -126,11 +126,11 @@
       ],
       "images": [
         {
-          "img_path": "https://www.cto.gda.pl/media/djmediatools/cache/7-badania-modelowe/700x450-crop-90-malyimg_0292.jpg",
+          "img_path": "portfolio_media/cto_patrol_boat.jpg",
           "caption": "Scaled Model of Patrol Vessel Heading the Waves"
         },
         {
-          "img_path": "https://www.cto.gda.pl/media/djmediatools/cache/7-badania-modelowe/700x450-crop-90-offshore_tests1.jpg",
+          "img_path": "portfolio_media/cto_semisub.jpg",
           "caption": "Scaled Model of Semi-submersible Platform"
         },
         {
@@ -206,7 +206,7 @@
       "location": "Gdansk, Poland",
       "url": "https://pg.edu.pl",
       "degrees": [
-        "Master of Science in Naval Architecture",
+        "MSc in Naval Architecture",
         "Ship Hydrodynamics"
       ],
       "graduation_date": "April, 2004"
